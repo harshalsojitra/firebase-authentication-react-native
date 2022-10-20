@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
-    "expo": "^32.0.6",
+    "expo": "^46.0.16",
     "firebase": "^5.9.1",
     "react": "^16.8.5",
     "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
